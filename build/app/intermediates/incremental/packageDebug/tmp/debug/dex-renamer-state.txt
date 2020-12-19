@@ -1,0 +1,4 @@
+#Sat Dec 19 01:38:41 KST 2020
+base.0=/Users/donghyeun/Desktop/Flutter/layout_example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
